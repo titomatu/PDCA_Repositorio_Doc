@@ -1109,7 +1109,7 @@
 											"top": 143,
 											"width": 159,
 											"height": 13,
-											"text": "Libreta de Ahorro"
+											"text": "Libreta de Ahorros"
 										},
 										{
 											"_type": "LabelView",
@@ -1635,9 +1635,9 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 367,
-											"width": 171.9072265625,
+											"width": 179.84814453125,
 											"height": 13,
-											"text": "Bloques Cuentas de Ahorro"
+											"text": "Bloqueos Cuentas de Ahorro"
 										},
 										{
 											"_type": "LabelView",
@@ -1670,7 +1670,7 @@
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 360,
-									"width": 181.9072265625,
+									"width": 189.84814453125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGDJJ34eb597uU="
@@ -1697,7 +1697,7 @@
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 385,
-									"width": 181.9072265625,
+									"width": 189.84814453125,
 									"height": 10
 								},
 								{
@@ -1712,7 +1712,7 @@
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 395,
-									"width": 181.9072265625,
+									"width": 189.84814453125,
 									"height": 10
 								},
 								{
@@ -1752,7 +1752,7 @@
 							"containerChangeable": true,
 							"left": 32,
 							"top": 360,
-							"width": 181.9072265625,
+							"width": 189.84814453125,
 							"height": 45,
 							"nameCompartment": {
 								"$ref": "AAAAAAGDJJ34eb58fgs="
@@ -1813,7 +1813,7 @@
 											"top": 463,
 											"width": 159,
 											"height": 13,
-											"text": "Bloques Cuenta AFC"
+											"text": "Bloqueos Cuenta AFC"
 										},
 										{
 											"_type": "LabelView",
@@ -3951,7 +3951,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 289,
+									"left": 290,
 									"top": 299,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3972,7 +3972,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 296,
+									"left": 297,
 									"top": 312,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3993,7 +3993,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 274,
+									"left": 275,
 									"top": 272,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4078,7 +4078,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 192,
+									"left": 195,
 									"top": 353,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -4098,7 +4098,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 201,
+									"left": 204,
 									"top": 363,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -4117,7 +4117,7 @@
 										"$ref": "AAAAAAGDJM2OtO5nRgY="
 									},
 									"font": "Arial;13;0",
-									"left": 173,
+									"left": 176,
 									"top": 331,
 									"width": 5.05908203125,
 									"height": 13,
@@ -4165,7 +4165,7 @@
 								"$ref": "AAAAAAGDJJzVFr2oIJw="
 							},
 							"lineStyle": 1,
-							"points": "401:225;163:359",
+							"points": "401:225;166:359",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGDJM2Ote5qXuY="
@@ -34153,7 +34153,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Libreta de Ahorro"
+					"name": "Libreta de Ahorros"
 				},
 				{
 					"_type": "UMLClass",
@@ -34177,7 +34177,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Bloques Cuentas de Ahorro"
+					"name": "Bloqueos Cuentas de Ahorro"
 				},
 				{
 					"_type": "UMLClass",
@@ -34185,7 +34185,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Bloques Cuenta AFC"
+					"name": "Bloqueos Cuenta AFC"
 				},
 				{
 					"_type": "UMLClass",
